@@ -1,6 +1,6 @@
 4 Bit Asenkron Yukarı Sayacı Zamanlama Analizi Pratiği
 
-Bu Proje, Xilinix Vivado kullanılarak tasarlanmış bir 4-bitlik bir asenkron yukarı sayacı
+Bu Proje, Xilinix Vivado kullanılarak tasarlanmış bir 4-bitlik bir asenkron yukarı sayacıdır ve Verilog ile yazılmıştır.
 
 # Özellikler
 4-bit asenkron sayıcı (0'dan 15'e kadar sayar)
